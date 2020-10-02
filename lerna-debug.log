@@ -1,0 +1,9 @@
+54 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+54 error fatal: HttpRequestException encountered.
+54 error    ��������ʱ������
+54 error bash: /dev/tty: No such device or address
+54 error error: failed to execute prompt script (exit code 1)
+54 error fatal: could not read Username for 'https://github.com': No such file or directory
+54 error
+54 error     at makeError (C:\Users\Administrator\AppData\Local\Yarn\Data\global\node_modules\execa\index.js:174:9)
+54 error     at C:\Users\Administrator\AppData\Local\Yarn\Data\global\node_modules\execa\index.js:278:16
