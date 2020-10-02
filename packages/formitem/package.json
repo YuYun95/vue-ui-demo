@@ -12,5 +12,6 @@
   "dependencies": {
     "async-validator": "^3.4.0",
     "lodash": "4"
-  }
+  },
+  "gitHead": "7f9e34d9541715ca00e33ad8a1f2f86127d7558d"
 }

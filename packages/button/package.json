@@ -1,5 +1,5 @@
 {
-  "name": "yu-button",
+  "name": "zyh-button",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "7f9e34d9541715ca00e33ad8a1f2f86127d7558d"
 }
